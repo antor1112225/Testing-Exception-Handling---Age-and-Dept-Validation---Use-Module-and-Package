@@ -1,0 +1,9 @@
+package com.validation.exception;
+
+// Custom exception for age validation
+public class InvalidAgeException extends Exception {
+
+    public InvalidAgeException(String message) {
+        super(message);
+    }
+}
