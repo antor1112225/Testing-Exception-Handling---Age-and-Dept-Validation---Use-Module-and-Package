@@ -1,0 +1,11 @@
+ExceptionValidationProject/
+└── src/
+    └── com.validation/
+        ├── module-info.java
+        ├── exception/
+        │   ├── InvalidAgeException.java
+        │   └── InvalidDepartmentException.java
+        ├── model/
+        │   └── Employee.java
+        └── main/
+            └── TestValidation.java
